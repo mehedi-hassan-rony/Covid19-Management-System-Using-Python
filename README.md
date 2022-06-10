@@ -1,7 +1,7 @@
 # Covid19-Management-System-Using-Python
 
 # Overview
-This is a python project. Here are some photos abiout all of the functions 
+This is a python project. Here are some photos about all of the functions 
 
 ![full](https://user-images.githubusercontent.com/104259107/173084148-3113ee97-5176-4968-8beb-e7d30d8a6f3a.PNG)
 Adding Patient 
